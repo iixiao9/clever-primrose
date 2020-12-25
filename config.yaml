@@ -18,7 +18,7 @@ params:
         url: /features
         style: link
       - type: action
-        label: Pricing
+        label: 联系我们
         url: /pricing
         style: link
       - type: action
