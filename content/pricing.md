@@ -34,7 +34,7 @@ sections:
         highlight: true
         actions:
           - type: action
-            label: 电话：15
+            label: 电话：15639301888
             url: /signup
             style: primary
       - type: pricing_plan
