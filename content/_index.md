@@ -138,7 +138,7 @@ sections:
     section_id: '222'
     title: 相关知识
     background: gray
-    subtitle: '222'
+    subtitle: ''
 layout: landing
 no_index: false
 ---
