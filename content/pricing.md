@@ -48,7 +48,7 @@ sections:
           * Phasellus lobortis risus laoreet quam
         actions:
           - type: action
-            label: Order Now
+            label: 电话：137
             url: /signup
             style: primary
   - type: section_faq
