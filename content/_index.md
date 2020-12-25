@@ -42,7 +42,7 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
+        title: 专业团队
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
