@@ -6,9 +6,7 @@ sections:
   - type: section_hero
     section_id: hero
     title: 濮阳市腾达金辉建筑设备有限公司
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: 诚信为本，真诚服务，共创辉煌，互利共赢，以质量为企业发展的宗旨。
     image: images/hero.png
     image_alt: App preview
     actions:
