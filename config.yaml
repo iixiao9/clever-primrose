@@ -6,7 +6,7 @@ params:
   header:
     type: header
     logo_img: images/logo.svg
-    logo_img_alt: Logo
+    logo_img_alt: 濮阳脚手架_梯形/门式/双层脚手架
     has_nav: true
     nav_links:
       - type: action
