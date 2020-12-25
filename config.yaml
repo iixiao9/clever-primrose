@@ -16,6 +16,7 @@ params:
         has_icon: false
         icon: arrow-right
         icon_position: left
+        new_window: true
       - type: action
         label: 案例展示
         url: /features
