@@ -138,12 +138,6 @@ sections:
     section_id: Latest Posts
     title: 相关知识
     background: gray
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items: []
-    type: section_faq
 layout: landing
 no_index: false
 ---
