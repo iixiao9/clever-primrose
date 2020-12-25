@@ -49,7 +49,7 @@ params:
             url: /blog
             style: link
           - type: action
-            label: Sign Up
+            label: 测试页面
             url: /signup
             style: link
           - type: action
