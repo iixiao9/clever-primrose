@@ -22,7 +22,7 @@ sections:
             url: '#'
             style: primary
       - type: pricing_plan
-        title: Professional
+        title: ''
         subtitle: For medium-sized businesses
         price: 河南·郑州
         details: |-
