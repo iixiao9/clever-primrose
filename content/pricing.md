@@ -49,7 +49,7 @@ sections:
         actions:
           - type: action
             label: 电话：13273930001
-            url: /signup
+            url: '#'
             style: primary
   - type: section_faq
     section_id: faq
