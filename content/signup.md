@@ -1,13 +1,24 @@
 ---
-title: Sign Up
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+title: 濮阳腾达金辉建筑设备有限公司
+subtitle: 濮阳市腾达金辉建筑设备有限公司是一家专门制造高空吊篮及脚手架建筑设备批发租赁公司，公司集电动吊篮的研发、制造、生产、销售、服务于一体
 image: images/11.jpg
 image_alt: Office desk top view
 layout: page
 ---
+濮阳市腾达金辉建筑设备有限公司是一家专门制造高空吊篮及脚手架建筑设备批发租赁公司，公司集电动吊篮的研发、制造、生产、销售、服务于一体。公司拥有丰富的施工安装经验及服务团队，为顾客提解决了后顾之忧，提供了的优公司一直奉行“诚信经营，服务至上”的理念，以高效、安全、互利共赢为宗旨。公司坐落于中原经济区，东部经济，交通和工商业中心的文明古都-濮阳，拥有优越的地理优势。濮阳被誉为“三商之源，华商之都”又是冀、鲁、豫三省的交界处。106国道在这里相会......
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+本公司产品脚手架及吊篮广泛应用于全国各大建筑工程的外墙粉刷、防腐、保温、清洗、维修等诸多领域，受到广大客户的好评。
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+ZLP630电动吊篮能够替代传统脚手架，减轻劳动强度，提高工作效率50%以上，而费用仅为传统脚手架的30%，具有省工、省钱、安全的特点。
+
+腾达金辉建筑设备宗旨：诚信为本，真诚服务，共创辉煌，互利共赢，以质量为企业发展的宗旨。质服务。
+
+
+
+**地  址： 濮阳市绿城路与历山路交叉口向西200米路北**
+
+**联系人：范经理**
+
+**手  机：18236033567 / 15639301888**
+
+**网  址：http://www.pytdjh.com**
