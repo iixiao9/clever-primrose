@@ -45,7 +45,7 @@ params:
             url: /about
             style: link
           - type: action
-            label: Blog
+            label: 所有文章
             url: /blog
             style: link
           - type: action
