@@ -1,5 +1,5 @@
 ---
-title: 套餐
+title: 联系我们
 sections:
   - type: section_pricing
     section_id: pricing
