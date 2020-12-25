@@ -21,7 +21,7 @@ sections:
             label: 电话：13273930001
             url: '#'
             style: primary
-        highlight: true
+        highlight: false
       - type: pricing_plan
         title: ''
         subtitle: ''
