@@ -14,7 +14,7 @@ params:
         url: /
         style: secondary
       - type: action
-        label: Features
+        label: 案例展示
         url: /features
         style: link
       - type: action
