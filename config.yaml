@@ -93,7 +93,7 @@ params:
             label: Email
             default_value: Enter email address
             is_required: true
-        submit_label: Subscribe
+        submit_label: 订阅
     has_nav: true
     nav_links:
       - type: action
