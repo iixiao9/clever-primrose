@@ -135,7 +135,7 @@ sections:
         no_follow: false
         type: action
   - type: section_posts
-    section_id: Latest Posts
+    section_id: '222'
     title: 相关知识
     background: gray
 layout: landing
