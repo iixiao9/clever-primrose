@@ -11,7 +11,7 @@ sections:
     image_alt: App preview
     actions:
       - type: action
-        label: Learn More
+        label: 联系我们
         url: /features
         style: primary
   - type: section_features
