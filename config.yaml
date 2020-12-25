@@ -26,7 +26,7 @@ params:
         url: /style-guide
         style: link
       - type: action
-        label: 联系我们
+        label: 关于我们
         url: /signup
         style: primary
   footer:
