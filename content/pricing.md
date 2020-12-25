@@ -39,7 +39,7 @@ sections:
             style: primary
       - type: pricing_plan
         title: ''
-        subtitle: For very large businesses
+        subtitle: ''
         price: 河南·濮阳
         details: |-
           * Vestibulum non eros quis
