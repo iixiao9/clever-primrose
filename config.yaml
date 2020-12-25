@@ -13,6 +13,7 @@ params:
         label: 首页
         url: /
         style: link
+        has_icon: true
       - type: action
         label: 案例展示
         url: /features
