@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - type: pricing_plan
         title: ''
-        subtitle: For small businesses
+        subtitle: ''
         price: 河南·鹤壁
         details: |-
           * Lorem ipsum dolor sit amet
