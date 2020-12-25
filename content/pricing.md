@@ -8,7 +8,7 @@ sections:
     background: gray
     pricing_plans:
       - type: pricing_plan
-        title: Basic
+        title: 联系我们
         subtitle: For small businesses
         price: $5/m
         details: |-
