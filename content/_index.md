@@ -106,7 +106,7 @@ sections:
         label: 联系我们
         url: /signup
         style: primary
-      - label: lorem-ipsum
+      - label: 查看案例
         url: lorem-ipsum
         style: primary
         has_icon: false
