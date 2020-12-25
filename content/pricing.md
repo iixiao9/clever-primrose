@@ -51,6 +51,23 @@ sections:
             label: 电话：13273930001
             url: '#'
             style: primary
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
   - type: section_faq
     section_id: faq
     title: 有些疑问？
