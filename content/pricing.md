@@ -53,7 +53,7 @@ sections:
             style: primary
   - type: section_faq
     section_id: faq
-    title: Frequently Asked Questions
+    title: 有些疑问？
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     background: gray
     faq_items:
