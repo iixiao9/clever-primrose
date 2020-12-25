@@ -12,7 +12,7 @@ params:
       - type: action
         label: 首页
         url: /
-        style: secondary
+        style: link
       - type: action
         label: 案例展示
         url: /features
