@@ -14,7 +14,7 @@ sections:
         label: 联系我们
         url: /features
         style: primary
-  - section_id: wenzhang1
+  - section_id: '111'
     title: 案例展示
     subtitle: ''
     background: gray
