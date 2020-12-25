@@ -135,7 +135,7 @@ sections:
         no_follow: false
         type: action
   - type: section_posts
-    section_id: recent-posts
+    section_id: Latest Posts
     title: Latest Posts
     background: gray
 layout: landing
