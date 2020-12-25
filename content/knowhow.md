@@ -5,7 +5,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: lorem1
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
