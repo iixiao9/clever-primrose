@@ -119,7 +119,7 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: 诚信为本，真诚服务，共创辉煌，互利共赢，以质量为企业发展的宗旨。
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 诚信为本，真诚服务，共创辉煌，互利共赢，以质量为企业发展的宗旨。
     actions:
       - type: action
         label: 联系我们
