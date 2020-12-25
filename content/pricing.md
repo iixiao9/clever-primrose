@@ -19,7 +19,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: /signup
+            url: '#'
             style: secondary
       - type: pricing_plan
         title: Professional
