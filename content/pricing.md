@@ -34,10 +34,7 @@ sections:
         highlight: true
         actions:
           - type: action
-            label: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-              metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus
-              molestie, risus tortor pretium ligula.
+            label: 电话：15
             url: /signup
             style: primary
       - type: pricing_plan
