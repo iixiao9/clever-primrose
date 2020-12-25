@@ -120,7 +120,7 @@ sections:
     title: Latest Posts
     background: gray
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 关于我们
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
