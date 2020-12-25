@@ -53,7 +53,7 @@ params:
             url: /signup
             style: link
           - type: action
-            label: Contact
+            label: 联系我们
             url: /contact
             style: link
       - type: footer_nav
