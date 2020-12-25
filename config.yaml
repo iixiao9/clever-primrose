@@ -15,7 +15,7 @@ params:
         style: link
         has_icon: false
         icon: arrow-right
-        icon_position: right
+        icon_position: left
       - type: action
         label: 案例展示
         url: /features
