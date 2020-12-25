@@ -10,7 +10,7 @@ sections:
       - type: pricing_plan
         title: ''
         subtitle: For small businesses
-        price: 联系我们
+        price: 河南·鹤壁
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
