@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     section_id: hero
-    title: 腾达金辉建筑设备宗旨
+    title: 濮阳市腾达金辉建筑设备有限公司
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
