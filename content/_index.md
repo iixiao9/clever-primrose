@@ -136,7 +136,7 @@ sections:
         type: action
   - type: section_posts
     section_id: Latest Posts
-    title: Latest Posts
+    title: 相关知识
     background: gray
 layout: landing
 no_index: false
