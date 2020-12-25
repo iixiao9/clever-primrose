@@ -10,7 +10,7 @@ params:
     has_nav: true
     nav_links:
       - type: action
-        label: Home
+        label: 首页
         url: /
         style: link
       - type: action
