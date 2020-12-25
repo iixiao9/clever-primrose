@@ -8,7 +8,7 @@ sections:
   - section_id: lorem1
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     type: section_posts
 layout: landing
 ---
