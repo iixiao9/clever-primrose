@@ -18,7 +18,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - type: action
-            label: '13273930001'
+            label: 电话：13273930001
             url: '#'
             style: primary
       - type: pricing_plan
