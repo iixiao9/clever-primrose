@@ -103,7 +103,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
-        label: Get Started
+        label: 联系我们
         url: /signup
         style: primary
   - type: section_posts
