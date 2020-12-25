@@ -3,7 +3,7 @@ title: 套餐
 sections:
   - type: section_pricing
     section_id: pricing
-    title: Pricing Plans
+    title: 联系我们
     subtitle: You can have a separate pricing page or list everything on the home page.
     background: gray
     pricing_plans:
