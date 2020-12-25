@@ -22,7 +22,7 @@ params:
         url: /pricing
         style: link
       - type: action
-        label: Style Guide
+        label: 测试页面
         url: /about
         style: link
       - type: action
