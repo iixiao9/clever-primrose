@@ -38,7 +38,7 @@ sections:
             url: /signup
             style: primary
       - type: pricing_plan
-        title: Enterprise
+        title: ''
         subtitle: For very large businesses
         price: 河南·濮阳
         details: |-
