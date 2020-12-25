@@ -16,7 +16,7 @@ sections:
         style: primary
   - section_id: wenzhang1
     title: 案例展示
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     type: section_posts
   - section_id: lorem-ipsum
