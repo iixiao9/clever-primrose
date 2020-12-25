@@ -82,7 +82,8 @@ params:
             icon_position: left
       - type: footer_form
         title: 订阅更新
-        content: Stay up to date with our latest developments.
+        content: |
+          随时了解我们的最新动态。
         form_id: contactForm
         hide_labels: true
         form_fields:
