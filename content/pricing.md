@@ -48,7 +48,7 @@ sections:
           * Phasellus lobortis risus laoreet quam
         actions:
           - type: action
-            label: 电话：137
+            label: 电话：13273930001
             url: /signup
             style: primary
   - type: section_faq
