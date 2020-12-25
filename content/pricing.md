@@ -10,7 +10,7 @@ sections:
       - type: pricing_plan
         title: 联系我们
         subtitle: For small businesses
-        price: $5/m
+        price: 联系我们
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
