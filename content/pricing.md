@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: 套餐
 sections:
   - type: section_pricing
     section_id: pricing
