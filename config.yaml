@@ -57,7 +57,7 @@ params:
             url: /contact
             style: link
       - type: footer_nav
-        title: Community
+        title: 关注我们
         nav_links:
           - type: action
             label: Twitter
