@@ -15,7 +15,7 @@ sections:
         url: /features
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 案例展示
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
