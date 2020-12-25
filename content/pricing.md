@@ -40,7 +40,7 @@ sections:
       - type: pricing_plan
         title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: 河南·濮阳
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
