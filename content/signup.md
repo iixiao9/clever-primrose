@@ -1,8 +1,6 @@
 ---
 title: 濮阳腾达金辉建筑设备有限公司
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: 濮阳市腾达金辉建筑设备有限公司是一家专门制造高空吊篮及脚手架建筑设备批发租赁公司，公司集电动吊篮的研发、制造、生产、销售、服务于一体
 image: images/11.jpg
 image_alt: Office desk top view
 layout: page
