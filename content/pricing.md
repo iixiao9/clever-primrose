@@ -20,7 +20,7 @@ sections:
           - type: action
             label: '13273930001'
             url: '#'
-            style: secondary
+            style: primary
       - type: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
