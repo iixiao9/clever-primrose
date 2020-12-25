@@ -10,15 +10,15 @@ params:
     has_nav: true
     nav_links:
       - type: action
-        label: Home
+        label: 首页
         url: /
         style: link
       - type: action
-        label: Features
+        label: 案例展示
         url: /features
         style: link
       - type: action
-        label: Pricing
+        label: 联系我们
         url: /pricing
         style: link
       - type: action
@@ -26,9 +26,9 @@ params:
         url: /style-guide
         style: link
       - type: action
-        label: Sign Up
+        label: 关于我们
         url: /signup
-        style: primary
+        style: link
   footer:
     type: footer
     sections:
@@ -41,7 +41,7 @@ params:
         title: 导航链接
         nav_links:
           - type: action
-            label: About Us
+            label: 关于我们
             url: /about
             style: link
           - type: action
