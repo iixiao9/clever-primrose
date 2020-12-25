@@ -23,7 +23,7 @@ sections:
             style: primary
       - type: pricing_plan
         title: ''
-        subtitle: For medium-sized businesses
+        subtitle: ''
         price: 河南·郑州
         details: |-
           * Curabitur non nunc mollis
