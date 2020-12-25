@@ -17,7 +17,7 @@ sections:
   - section_id: lorem-ipsum
     title: 案例展示
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     type: section_posts
   - section_id: lorem-ipsum
     title: 关于我们
