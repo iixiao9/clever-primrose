@@ -50,7 +50,7 @@ sections:
           - type: action
             label: Order Now
             url: /signup
-            style: secondary
+            style: primary
   - type: section_faq
     section_id: faq
     title: Frequently Asked Questions
