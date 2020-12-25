@@ -16,7 +16,7 @@ params:
       - type: action
         label: 案例展示
         url: /features
-        style: primary
+        style: secondary
       - type: action
         label: 联系我们
         url: /pricing
