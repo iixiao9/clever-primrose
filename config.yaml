@@ -13,7 +13,7 @@ params:
         label: 首页
         url: /
         style: link
-        has_icon: true
+        has_icon: false
         icon: arrow-right
       - type: action
         label: 案例展示
