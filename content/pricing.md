@@ -24,7 +24,7 @@ sections:
       - type: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: 河南·郑州
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
