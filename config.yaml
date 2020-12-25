@@ -36,7 +36,7 @@ params:
         image: images/logo-alt.svg
         image_alt: Footer logo
         image_url: /
-        content: Stackbit theme demo
+        content: 濮阳市腾达金辉建筑设备有限公司
       - type: footer_nav
         title: 导航链接
         nav_links:
