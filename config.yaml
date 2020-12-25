@@ -20,7 +20,7 @@ params:
       - type: action
         label: 联系我们
         url: /pricing
-        style: secondary
+        style: link
       - type: action
         label: Style Guide
         url: /style-guide
