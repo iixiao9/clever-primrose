@@ -14,7 +14,7 @@ sections:
         label: 联系我们
         url: /features
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: wenzhang1
     title: 案例展示
     subtitle: lorem-ipsum
     background: gray
