@@ -38,7 +38,7 @@ params:
         image_url: /
         content: Stackbit theme demo
       - type: footer_nav
-        title: Company
+        title: 导航链接
         nav_links:
           - type: action
             label: About Us
