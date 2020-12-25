@@ -18,7 +18,7 @@ sections:
           * Etiam eget dui a augue
         actions:
           - type: action
-            label: Order Now
+            label: '13273930001'
             url: '#'
             style: secondary
       - type: pricing_plan
