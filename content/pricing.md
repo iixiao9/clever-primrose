@@ -8,7 +8,7 @@ sections:
     background: gray
     pricing_plans:
       - type: pricing_plan
-        title: 联系我们
+        title: ''
         subtitle: For small businesses
         price: 联系我们
         details: |-
