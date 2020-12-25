@@ -28,7 +28,7 @@ params:
       - type: action
         label: 关于我们
         url: /signup
-        style: primary
+        style: link
   footer:
     type: footer
     sections:
